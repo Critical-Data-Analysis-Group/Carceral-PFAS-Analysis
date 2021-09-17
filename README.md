@@ -9,14 +9,14 @@
 ## Contributors
 
 <!-- ALL-CONTRIBUTORS-LIST:START -->
-| Contributions | Name (alpha order) |
+| Contributions | Name |
 | ----: | :---- |
 | [🔢](# "Data") [💻](# "Code") [🤔](# "Ideas and Planning")| [Lindsay Poirier](#) |
 | [🔢](# "Data") [🔬](# "Research") [🤔](# "Ideas and Planning") | [Derrick Salvatore](#) |
 | [🔬](# "Research")  [🤔](# "Ideas and Planning") | [Phil Brown](#) |
 | [🔬](# "Research") [🤔](# "Ideas and Planning") | [Alissa Cordner](#) |
 | [🔬](# "Research")  [🤔](# "Ideas and Planning") | [Kira Mok](#) |
-| [📋](# "Organizer")[🔬](# "Research")[🤔](# "Ideas and Planning") | [Nicholas Shapiro](https://github.com/shapironick) |
+| [📋](# "Organizer")[🔢](# "Data")[🔬](# "Research")[🤔](# "Ideas and Planning") | [Nicholas Shapiro](https://github.com/shapironick) |
 
 <!-- ALL-CONTRIBUTORS-LIST:END -->
 
