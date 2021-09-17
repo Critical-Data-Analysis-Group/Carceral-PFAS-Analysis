@@ -9,7 +9,7 @@
 ## Contributors
 
 <!-- ALL-CONTRIBUTORS-LIST:START -->
-| Contributions | Name (alpha order) |
+| Contributions | Name |
 | ----: | :---- |
 | [🔢](# "Data") [💻](# "Code") [🤔](# "Ideas and Planning")| [Lindsay Poirier](#) |
 | [🔢](# "Data") [🔬](# "Research") [🤔](# "Ideas and Planning") | [Derrick Salvatore](#) |
