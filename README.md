@@ -16,7 +16,7 @@
 | [🔬](# "Research")  [🤔](# "Ideas and Planning") | [Phil Brown](#) |
 | [🔬](# "Research") [🤔](# "Ideas and Planning") | [Alissa Cordner](#) |
 | [🔬](# "Research")  [🤔](# "Ideas and Planning") | [Kira Mok](#) |
-| [📋](# "Organizer")[🔬](# "Research")[🤔](# "Ideas and Planning") | [Nicholas Shapiro](https://github.com/shapironick) |
+| [📋](# "Organizer")[🔢](# "Data")[🔬](# "Research")[🤔](# "Ideas and Planning") | [Nicholas Shapiro](https://github.com/shapironick) |
 
 <!-- ALL-CONTRIBUTORS-LIST:END -->
 
