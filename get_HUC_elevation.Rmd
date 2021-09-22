@@ -297,6 +297,7 @@ pb_sf %>%
             percent_missing_pop = sum(POPULATION == -999) / n() * 100)
   
 ```
+
 ## Get HUC-12s Boundary Codes and Elevations for Each Point Source
 
 > The HUC-12 Watershed Boundary Dataset is not included in the GitHub repo due to size. It can be accessed at [https://water.usgs.gov/GIS/huc.html](https://water.usgs.gov/GIS/huc.html)
