@@ -1,7 +1,8 @@
 # Carceral PFAS Analysis
 
-## Cite As
+## About
 
+The code and data in this repo calculates the number, percentages, and populations of US carceral facilities in the same HUC-12 watershed boundary and, as a proxy for hydrologic flow, at a lower elevation than point sources with likely PFAS contamination.
 
 ## Contributors
 
