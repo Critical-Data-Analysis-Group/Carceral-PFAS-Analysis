@@ -27,7 +27,7 @@ The code and data in this repo calculates the number, percentages, and populatio
 * Environmental Protection Agency. "Clean Watersheds Needs Survey Data and Reports." 2012. https://ordspub.epa.gov/ords/cwns2012:; Facilities that discharge effluent to a deep well or did not produce discharge were excluded.
 * Environmental Protection Agency. "Facility Registry Service." https://www.epa.gov/frs; Facilities filtered by corresponding NAICS code (see table below)
 * Office of the Assistant Secretary of Defense for Sustainment. "Geospatial Information for U.S. Military Installations, Ranges, and Training Areas." Defense Installations Spatial Data Infrastructure (DISDI),  2020. https://www.acq.osd.mil/eie/BSI/BEI_DISDI.html
-* BRAC  
+* Environmental Protection Agency. "Base Realignment and Closure Act (BRAC) Sites." https://www.epa.gov/fedfacts/base-realignment-and-closure-act-brac-sites; Facilities that overlapped geospatially with U.S. Military Installations, Ranges, and Training Area were excluded. 
 * Department of Homeland Security. "Formerly Used Defense Sites (FUDS) Public Properties." Homeland Infrastructure Foundation Level Data, August 21, 2021. https://hifld-geoplatform.opendata.arcgis.com/datasets/geoplatform::formerly-used-defense-sites-fuds-public-property-boundaries/about 
 
 ### NAICS Codes Included
