@@ -56,7 +56,7 @@ There are two R Markdown files in this repo:
   * Saves the resulting data as .gpkg files for use in HUC_analysis.Rmd
   
 2. HUC_analysis.Rmd
-  * Loads the .gpkg files created in HUC_analysis.Rmd
+  * Loads the .gpkg files created in get_HUC_elevation.Rmd
   * Joins carceral facility data to data representing the locations of each potential point source based on a shared HUC-12 code
   * Filters to carceral facilities at a lower elevation than a potential point source as a proxy for hydrological flow direction
   * Calculates the number of unique facilities in the same HUC-12 watershed boundary and at a lower elevation than each point source and a combination of point sources, along with the number of incarcerated people potentially impacted
